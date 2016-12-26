@@ -1,0 +1,24 @@
+body {
+    background:#BBBBBB;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-variant: small-caps;
+    font-size: 1.25em;
+    letter-spacing: 4px;
+}
+form {
+    letter-spacing: -.5px;
+    padding:5px;
+    font-style: normal;
+}
+td{
+    padding:20px;
+}
+table{
+    border-collapse: collapse;
+}
+.colors{
+   display:inline;
+   vertical-align:middle;
+}
